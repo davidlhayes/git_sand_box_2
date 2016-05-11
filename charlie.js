@@ -3,4 +3,4 @@ var k = 0;
 var name = "Ryan";
 console.log(name);
 console.log(i,k,i+k);
-alert(i);
+alert("This is alert number: ",i);
